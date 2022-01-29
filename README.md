@@ -3,4 +3,3 @@ Hi Humans!
 This is a test of my presence on GitHub. 
 
 Cookies. 
-... and milk.
